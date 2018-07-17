@@ -1,0 +1,9 @@
+Is an encrypted communication channel (wss) used?
+Are the data received from the client via WebSocket protocol validated?
+Does the WebSocket server used limit the number of possible parallel connections from one client?
+How is the authentication and authorization for resources made available through WebSocket implemented?
+Is a known WebSocket server or proprietary solution used? Has the original server passed the stage of security verification?
+Do we have an implemented CSP policy limiting the sources with which we can establish a connection?
+Is the Origin header validated on the server side, also taking into account the fact that it can be manipulated when using a client that is not a web browser?
+Is a boiled library serving the client and server part responsibl efor the WebSocket protocol used?
+Does the firewall allow network traffic to the port on which the WebSocket server is listening, only from specific sources?
