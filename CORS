@@ -1,4 +1,7 @@
 Is the origin validation before reflecting it, is in place?
 If validation process of trusted origin domain name, that ended with 'safe.com' including 'notreallysafe.com'?
 Is the CORS do not whtelist Access-Control-Allow-Origin for null?
+Is the whitelist applied for all subdomins?
+Is the whitelist applied for 3rd party domains?
+Is the protocol restricted only to HTTPS?
 
