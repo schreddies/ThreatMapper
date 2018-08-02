@@ -5,3 +5,4 @@ Is the whitelist applied for all subdomins?
 Is the whitelist applied for 3rd party domains?
 Is the protocol restricted only to HTTPS?
 Is your's network location functions as a kind of authentication? (proxy to bypass IP-based authentication and access intranet applications.)
+Is 'Vary: Origin' HTTP header added whenever Access-Control-Allow-Origin headers are dynamically generated?
