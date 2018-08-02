@@ -4,4 +4,4 @@ Is the CORS do not whtelist Access-Control-Allow-Origin for null?
 Is the whitelist applied for all subdomins?
 Is the whitelist applied for 3rd party domains?
 Is the protocol restricted only to HTTPS?
-
+Is your's network location functions as a kind of authentication? (proxy to bypass IP-based authentication and access intranet applications.)
