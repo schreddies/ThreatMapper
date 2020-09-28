@@ -3,8 +3,8 @@
 ## Intro
 The purpose of this software is to make threat modelling easier and, hopefully, after some introduction, to be served as self-service tool for developers. 
 
-## Usage
-The usage is quite simple - just pick the type of application, the technology stack and mutiple other things and you will get the couple of questions. Answering to these questions will give you the threat model - of course, quite rought and not polished enought, but really good start to work with. And the best thing, it can be done by developers and QA's before meeting the security team for inital TM. Or periodcaily to make little changes included into team TM. 
+## TMaaS
+The usage is quite simple - just pick the type of application, the technology stack and mutiple other things and you will get the couple of questions. Answering to these questions will give you the threat model - of course, quite rought and not polished enought, but really good starter to work with. And the best thing, it can be done by developers and QA's before meeting the security team for inital TM. Or periodcaily to make little changes included into team TM - Threat Modelling as a Service 
 
 ## Quick guide
 1. Pick the kind/type of application that you would like to threat modelling (is that a verb?), 
