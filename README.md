@@ -8,6 +8,7 @@ We strongly believe that the application security is the process. Not something 
 
 ## TMaaS
 The usage is quite simple - just pick the type of application, the technology stack and you will get the couple of questions. Answering to these questions gives you the threat model - of course, quite rought and not polished enought, but really good starting point to work with. The best thing, it can be done by the teams before meeting the security team for inital TM. Or periodcaily to make little changes included into product Threat Modelling. In other words: Threat Modelling as a Service 
+![tm](https://github.com/schreddies/ThreatMapper/blob/master/Blank%20Diagram.png "tm")
 
 ## Quick guide
 1. Pick the kind/type of application that you would like to threat model (is that a verb?), 
